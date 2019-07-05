@@ -1,6 +1,7 @@
 # SPTP
 
 [![Build Status](https://travis-ci.org/go-guoyk/sptp.svg?branch=master)](https://travis-ci.org/go-guoyk/sptp)
+![GitHub](https://img.shields.io/github/license/go-guoyk/sptp.svg)
 
 Simple Payload Transmission Protocol
 
